@@ -1,2 +1,3 @@
 # python-1
-Author - Kishan Karena(Hii)
+Author - Kishan Karena
+(Hii)
